@@ -1,0 +1,61 @@
+
+.top-navbar{
+
+  padding: 50px 100px;
+}
+
+
+.background-color{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+}
+
+
+.background-color2{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+}
+
+.card{
+    border: none;
+    margin-top: 50px;
+    text-align: center;
+    margin: 40px;
+}
+
+.card img{
+    width: 300px;
+    padding-left: 100px;
+    
+}
+
+
+
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
+
+
+.card-item {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+
